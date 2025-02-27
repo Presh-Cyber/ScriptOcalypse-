@@ -1,0 +1,7 @@
+requests
+argparse
+json
+urllib3
+sys
+threading
+termcolor
