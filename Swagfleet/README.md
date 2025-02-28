@@ -1,4 +1,4 @@
-# 🏴‍☠️ ScriptOcalypse: Swagfleet  
+# Swagfleet  
 
 ⚡ Tired of wrestling with pentest with Swagger docs and manually updating API endpoints? Swagfleet does the dirty work for you extracting, replacing, and testing all discovered endpoints. It seamlessly integrates with BurpSuite, making your pentesting workflow smoother. and if you're hunting for juicy GET endpoints that scream "exploit me!", thorugh Authentication bypasses? this script got it covered. **  
 
